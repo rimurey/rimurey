@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @obitidev
 - 👀 I’m interested in code 🖥, listen to lofi music 🎶, look at art 🎨, play board games 🎮, join people in a programming competition 📊, and so much more...
 - 🌱 I’m currently learning: Competition Programming, Web Design
+- 👊 I can use these programming languages:
+  + ``C++``
+  + ``Javascript``
+  + ``Pascal``
 - 📫 You can contact me via:
   + facebook: <a href="https://www.facebook.com/profile.php?id=100080887506357">Phung Hieu</a>
   + gmail: obitidev@gmail.com
