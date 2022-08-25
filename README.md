@@ -1,31 +1,54 @@
 
-### 🌐Socials
+### 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#3766)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100080887506357)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC4GCswvuH4rqbne_fJgwGTQ) 
 
 ##
 
-### 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+### 💻 Tech Stack
+<span>
+  <img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="25" />
+</span>
+<span>
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+</span>
+<span>
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+</span>
+<span>
+  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javaScript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+</span>
+<span>
+  <img src="https://img.shields.io/badge/NodeJS-282C34?logo=node.js&logoColor=02e803" alt="NodeJS logo" title="NodeJS" height="25" />
+</span>
+<span>
+  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" />
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" />
+</span>
+<span>
+  <img src="https://img.shields.io/badge/vscode-282C34?logo=visual%20studio%20code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+</span>
+<span>
+  <img src="https://img.shields.io/badge/Sublime%20Text-282C34?logo=sublime%20text&logoColor=FF9800" alt="Sublime Text logo" title="Sublime Text" height="25" />
+</span>
 
 ##
 
-### 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=obitidev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=obitidev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=obitidev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats :
+<div align="center">
+  <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obitidev&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="max-width: 100%;" />
+  <img width="434" align="center" src="https://github-readme-stats.vercel.app/api?username=obitidev&show_icons=true&theme=react&count_private=true&hide_border=true" style="max-width: 100%;" />
+</div>
 
 ##
 
-### ✍️Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
