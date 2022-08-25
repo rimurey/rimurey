@@ -1,8 +1,16 @@
 
 ### 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#3766)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080887506357)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4GCswvuH4rqbne_fJgwGTQ) 
+<div>
+  <a href="https://discord.gg/#3766" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100080887506357" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC4GCswvuH4rqbne_fJgwGTQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
 
 ##
 
