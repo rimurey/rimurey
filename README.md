@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/obitiiiii">
-  <img src="https://github.com/obitidev/obitidev/blob/main/devcard.svg" width="200" alt="Obiti Dev Card"/>
+  <img src="https://github.com/obitidev/obitidev/blob/main/devcard.svg" width="350" alt="Obiti Dev Card"/>
 </a>
 
 <!---
