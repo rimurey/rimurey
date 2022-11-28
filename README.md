@@ -1,15 +1,15 @@
 
 ### 🌐 Socials
 <div>
-  <a href="https://discord.gg/p9dgMfzQuK" target="_blank">
+<!--   <a href="https://discord.gg/p9dgMfzQuK" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  </a> -->
   <a href="https://www.facebook.com/profile.php?id=100080887506357" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UC4GCswvuH4rqbne_fJgwGTQ" target="_blank">
+<!--   <a href="https://www.youtube.com/channel/UC4GCswvuH4rqbne_fJgwGTQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" />
-  </a>
+  </a> -->
 </div>
 
 ##
